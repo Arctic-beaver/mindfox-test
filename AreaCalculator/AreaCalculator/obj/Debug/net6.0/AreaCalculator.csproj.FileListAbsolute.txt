@@ -1,0 +1,11 @@
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.deps.json
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.dll
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\bin\Debug\net6.0\ref\AreaCalculator.dll
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\bin\Debug\net6.0\AreaCalculator.pdb
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfoInputs.cache
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.AssemblyInfo.cs
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.csproj.CoreCompileInputs.cache
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.dll
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\obj\Debug\net6.0\ref\AreaCalculator.dll
+D:\Work-3\Other\mindbox\AreaCalculator\AreaCalculator\obj\Debug\net6.0\AreaCalculator.pdb
